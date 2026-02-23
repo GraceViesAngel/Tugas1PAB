@@ -89,37 +89,42 @@ Halaman checkout menampilkan:
 ---
 ## Alur Kerja Program
 
-1. pertama, tampilan awal
+1. Tampilan Awal (Halaman Products)
+Saat aplikasi dibuka, user langsung melihat daftar produk yang ditampilkan dalam bentuk grid agar lebih rapi dan mudah dibaca. Di bagian atas terdapat fitur pencarian, filter kategori, dan ikon keranjang untuk memudahkan navigasi.
+
 
 <img width="465" height="997" alt="image" src="https://github.com/user-attachments/assets/73a656f5-84a1-4427-8273-faafb5e22db1" />
 
 
-
-
-
-
-
-2. kedua, filter berdasarkan kategori
+2. Fitur Search dan Filter Kategori
+User dapat mencari produk dengan mengetik nama barang pada kolom search sehingga produk yang tidak sesuai otomatis tersembunyi. Selain itu, user juga bisa memfilter produk berdasarkan kategori agar pencarian lebih cepat dan terarah.
 
 <img width="468" height="1008" alt="image" src="https://github.com/user-attachments/assets/09a5db0f-dec0-426b-9d0d-551850b8d04e" />
 
-3. Ketiga, searcing
+
+
 
 <img width="452" height="988" alt="image" src="https://github.com/user-attachments/assets/d1f7ac45-6942-4acd-85a8-85e1b1a869cf" />
 
 
-4. keempat, add barang yang ingin di beli dan akan masuk ke keranjang
+3. Add to Cart
+Ketika tombol Add ditekan, produk akan langsung masuk ke dalam keranjang belanja.
+
 
 <img width="473" height="1000" alt="image" src="https://github.com/user-attachments/assets/41b38937-1707-401e-b881-d71981ab23f5" />
 
-5. kelima, checkout
+4. Halaman Shopping Cart
+Di halaman ini user dapat melihat semua produk yang sudah dipilih lengkap dengan jumlah dan subtotalnya. User juga bisa menambah, mengurangi, atau menghapus produk sesuai kebutuhan.
+
 
 <img width="452" height="992" alt="image" src="https://github.com/user-attachments/assets/cabe8fa9-486e-47a9-bf7c-de6b9be17442" />
 
-6. keenam, masukkan nama lengkap dan juga alamat
+5. Halaman Checkout
+Saat tombol Checkout ditekan, user akan diarahkan ke halaman konfirmasi pesanan yang menampilkan ringkasan belanja. Di halaman ini user juga harus mengisi nama lengkap dan alamat sebagai data pengiriman.
 
 <img width="469" height="1013" alt="image" src="https://github.com/user-attachments/assets/b3867910-6c00-46e6-a916-06b91aa4c2c6" />
 
-7. ketujuh, order yang telah dilakukan sukses
+6. Konfirmasi Pesanan
+Jika semua data sudah diisi dengan benar, user dapat menekan tombol Confirm Order untuk menyelesaikan transaksi. Setelah berhasil, akan muncul pesan konfirmasi dan keranjang belanja akan dikosongkan secara otomatis.
 
 <img width="466" height="999" alt="image" src="https://github.com/user-attachments/assets/688f1996-01cf-4c25-ac6f-f18f8e0ea290" />

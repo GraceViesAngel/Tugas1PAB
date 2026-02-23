@@ -3,9 +3,9 @@
 
 
 ### 👩‍🎓 Identitas
-**NAMA : GRACE VIES ANGEL**  
-**NIM : 2409116005**  
-***KELAS : A'2024***
+#### NAMA : GRACE VIES ANGEL  
+#### NIM : 2409116005  
+#### KELAS : A'2024
 ---
 ## 📌 Deskripsi Project
 
@@ -16,6 +16,7 @@ Aplikasi ini mensimulasikan sistem belanja online dimana user dapat melihat daft
 Dalam project ini, saya menerapkan konsep state management menggunakan Provider agar data keranjang dapat berubah secara real-time ketika user menambahkan, mengurangi, atau menghapus barang. Selain itu, aplikasi ini juga dilengkapi dengan fitur pencarian produk, filter berdasarkan kategori, serta halaman checkout yang memiliki form input nama dan alamat dengan validasi.
 
 Tujuan dari project ini adalah untuk memahami bagaimana alur data dalam aplikasi Flutter bekerja, bagaimana mengelola state dengan benar, serta bagaimana membuat tampilan yang interaktif dan responsif.
+
 ---
 
 ## 🎯 Fitur Wajib (70 Poin)

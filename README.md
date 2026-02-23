@@ -57,7 +57,9 @@ User dapat menghapus produk dari keranjang dengan menekan ikon delete. Saat tomb
 
 
 ### ✅ 5. Display Total Price
-Total harga dihitung secara otomatis berdasarkan jumlah (quantity) dan harga masing-masing produk. Setiap kali user menambah, mengurangi, atau menghapus produk, total harga langsung diperbarui tanpa perlu refresh manual. Hal ini membuat perhitungan menjadi lebih akurat dan meminimalkan kesalahan dalam penghitungan harga.
+
+Total harga dihitung secara otomatis berdasarkan jumlah (quantity) dan harga masing-masing produk. Setiap kali user menambah, mengurangi, atau menghapus produk, total harga langsung diperbarui tanpa perlu refresh manual. Hal ini membuat perhitungan menjadi lebih akurat dan meminimalkan kesalahan dalam penghitungan harga.\
+
 ---
 
 ## Fitur tambahan (Bonus 30 Poin)
@@ -90,6 +92,12 @@ Halaman checkout menampilkan:
 1. pertama, tampilan awal
 
 <img width="465" height="997" alt="image" src="https://github.com/user-attachments/assets/73a656f5-84a1-4427-8273-faafb5e22db1" />
+
+
+
+
+
+
 
 2. kedua, filter berdasarkan kategori
 

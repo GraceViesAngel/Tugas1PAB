@@ -5,7 +5,7 @@
 ### 👩‍🎓 Identitas
 **NAMA : GRACE VIES ANGEL**  
 **NIM : 2409116005**  
-**KELAS : A'2024**
+***KELAS : A'2024***
 ---
 ## 📌 Deskripsi Project
 

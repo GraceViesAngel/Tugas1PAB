@@ -99,7 +99,7 @@ Saat aplikasi dibuka, user langsung melihat daftar produk yang ditampilkan dalam
 2. Fitur Search dan Filter Kategori
 User dapat mencari produk dengan mengetik nama barang pada kolom search sehingga produk yang tidak sesuai otomatis tersembunyi. Selain itu, user juga bisa memfilter produk berdasarkan kategori agar pencarian lebih cepat dan terarah.
 
-<img width="200" height="300" alt="image" src="https://github.com/user-attachments/assets/09a5db0f-dec0-426b-9d0d-551850b8d04e" />
+<img width="500" height="700" alt="image" src="https://github.com/user-attachments/assets/09a5db0f-dec0-426b-9d0d-551850b8d04e" />
 
 
 
